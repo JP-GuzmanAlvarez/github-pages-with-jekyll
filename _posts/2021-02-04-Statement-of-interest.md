@@ -1,4 +1,9 @@
-## Statement of interest
+---
+title: "A Statement of purpose"
+date: 2021-02-04
+---
+
+## Statement of purpose
 I have always been motivated by transformation.
 
 Transformation of mass, transformation of energy, and transformation of information in its multiple scenarios, that I decided to understand from a background that could explained it in its physic-chemical complexity.
