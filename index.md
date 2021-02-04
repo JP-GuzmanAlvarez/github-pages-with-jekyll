@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Juan Pablo Guzman Alvarez
+Thank you for stopping by :sparkles:
 
-I'm glad you are here. I plan to talk about ...
+I'm still working on the basics!
